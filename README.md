@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 First Year Computer Science Student at the University of Guelph
+
+
 <!--
 **ai-mccart/ai-mccart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
